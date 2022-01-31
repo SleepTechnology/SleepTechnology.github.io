@@ -7,104 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2022 SleepTechnology Cares about YOU</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://SleepTechnology.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 14:51:12 +0600</lastBuildDate><atom:link href="https://SleepTechnology.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>How To Setup Meghna Hugo</title>
+      <title>好好睡一覺，不靠安眠藥！</title>
       <link>https://SleepTechnology.github.io/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <pubDate>Wed, 26 Jan 2022 14:51:12 +0600</pubDate>
       
       <guid>https://SleepTechnology.github.io/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-6/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://SleepTechnology.github.io/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/blog/simple-blog-post-7/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://SleepTechnology.github.io/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://SleepTechnology.github.io/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SleepTechnology.github.io/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <description>「好好睡一覺」有多關鍵呢？睡眠扮演了調節生理時鐘及內分泌系統、統整記憶資訊、舒緩身心疲憊等角色，睡眠品質也與白天清醒時學習或工作的效率、情緒波動與控制、認知功能息息相關。三哩島核洩漏事故、挑戰者號太空梭爆炸、阿拉斯加港灣漏油事件，有一部分原因是工作人員睡眠品質不好，或睡眠不足所致。日常生活中也有許多交通事故是因睡眠問題導致無法即時判斷路況，甚至疲勞、打瞌睡而造成。
+許多人都有睡眠的困擾，根據台灣睡眠醫學學會 2019 年的調查發現，光是慢性失眠，台灣的盛行率就高達 10.7％，也就是每 10 個人就至少有 1 人有睡不著的問題。但睡眠不好，絕對不僅僅是睡不著的問題，睡著之後還有 80 幾種睡眠障礙在等著我們呢！
+除了平時壓力造成失眠，疫情的擴散和不確定性更是讓國人睡眠更差！因睡眠障礙上門求診的頻率在去年增加了 30％，15 歲以上有失眠困擾的人，從前年的 25％上升到去年的 30％。很多民眾出現失眠的困擾後，經常仰賴坊間的健康食品或安眠藥入睡，根據健保署 2018 年統計，目前全台用藥人口超過 426 萬人，每 5 人至少 1 人用藥，國衛院的調查也發現，單單是 1 款安眠藥佐沛眠（ZOLPIDEM），台灣每年的用量至少超過 1 億 3 千萬顆。 根據食藥署的藥品使用量資料，2014 年至 2018 年國內整體安眠藥醫令數量有上升的趨勢，醫令總申報量曾一度到達 9 億 7 千萬筆資料，健保花費超過 20 億元！台灣人口約 2300 萬人，人口數世界排名 57 位，但根據國衛院調查，2011-2019 年使用鎮靜安眠藥物的總體使用量在全球排名竟落在 6-10 名，相當驚人！</description>
     </item>
     
   </channel>
